@@ -1,5 +1,4 @@
-image:
-  file: gitpod-qemu.dockerfile
+image: markformware/gitpod-qemu-arm
 
 ports:
   - port: 5900
